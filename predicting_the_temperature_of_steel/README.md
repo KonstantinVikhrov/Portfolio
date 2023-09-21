@@ -14,12 +14,12 @@
 
 Для оптимизации производственных расходов, решил уменьшить потребление электроэнергии на этапе обработки стали. Нам предстоит построить модель, которая предскажет температуру стали.
 
-## Используемые библиотеки
-*pandas
-matplotlib
-numpy
-seaborn
-re
-sklearn
-ML
-lightgbm*
+## Используемые bycnhevtyns
+*pandas  
+matplotlib  
+numpy  
+seaborn  
+re  
+sklearn  
+ML  
+lightgbm  *
